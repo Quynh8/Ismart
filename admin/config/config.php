@@ -13,7 +13,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
  * 
  */
 
-$config['base_url'] = "http://localhost:8034/Back-End/Project/ismart.com/admin/";
+$config['base_url'] = "https://quynh8.github.io/Ismart/admin/";
 
 
 $config['default_module'] = 'home';
