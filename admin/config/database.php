@@ -16,10 +16,10 @@
  */
 
 $db = array(
-    'hostname' => 'localhost',
-    'username' => 'root',
+    'hostname' => 'quynh8.github.io',
+    'username' => 'index.html',
     'password' => '',
-    'database' => 'ismart.com',
+    'database' => 'ismart_com',
 );
 
 
